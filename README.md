@@ -19,6 +19,8 @@ Some examples of HFID is shown below:
 
 Download Link: [https://rec.ustc.edu.cn/share/cf04d060-8a7c-11ee-8faf-ed16f0588424](https://rec.ustc.edu.cn/share/cf04d060-8a7c-11ee-8faf-ed16f0588424)
 
+Unzip Password: USTC_HFIDv1
+
 If you're using HFID in your research or applications, please cite our paper:
 ```bibtex
 
